@@ -1,0 +1,8 @@
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsole\bin\Debug\POSConsole.exe.config
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsole\bin\Debug\POSConsole.exe
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsole\bin\Debug\POSConsole.pdb
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsole\obj\Debug\POSConsole.csprojAssemblyReference.cache
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsole\obj\Debug\POSConsole.csproj.CoreCompileInputs.cache
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsole\obj\Debug\POSConsole.exe
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsole\obj\Debug\POSConsole.pdb
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsole\bin\Debug\Products.csv

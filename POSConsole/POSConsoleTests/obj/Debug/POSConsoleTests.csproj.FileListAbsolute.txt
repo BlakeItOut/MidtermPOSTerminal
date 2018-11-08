@@ -1,0 +1,12 @@
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\bin\Debug\Products.csv
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\bin\Debug\POSConsoleTests.dll
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\bin\Debug\POSConsoleTests.pdb
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\bin\Debug\POSConsole.exe
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\bin\Debug\POSConsole.pdb
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\bin\Debug\POSConsole.exe.config
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\obj\Debug\POSConsoleTests.csprojAssemblyReference.cache
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\obj\Debug\POSConsoleTests.csproj.CoreCompileInputs.cache
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\obj\Debug\POSConsoleTests.csproj.CopyComplete
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\obj\Debug\POSConsoleTests.dll
+C:\Users\bshaw\Source\Repos\blakes3489\POSTerminal\POSConsole\POSConsoleTests\obj\Debug\POSConsoleTests.pdb
